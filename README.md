@@ -1,4 +1,4 @@
-Kritika Srivastava
+# Selva Niklesh R
 
 ## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
@@ -12,7 +12,7 @@ Kritika Srivastava
 
 ### Available on:
 
-<a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/SelvaNiklesh"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/kritikathedev/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
@@ -52,26 +52,24 @@ Kritika Srivastava
 
 ### Tech Blog✏️:
 
-- [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
+- [Dev](https://dev.to/SelvaNiklesh): Write-ups on ReactJS/Frontend Development.
 
   ## My Top Blog Posts:
 
-  - [How to think while building web applications.](https://dev.to/kritika27/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was being awarded as weekly top React author.
-  - [React code structuring and best practices.](https://dev.to/kritika27/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
+  - [How to think while building web applications.](https://dev.to/SelvaNiklesh/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was being awarded as weekly top React author.
+  - [React code structuring and best practices.](https://dev.to/SelvaNiklesh/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
 
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br/>
   <br/>
 
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
+![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=SelvaNiklesh&count_private=true&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika27)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaNiklesh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kritika27)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kritika27)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SelvaNiklesh)
 
 [twitter]: https://twitter.com/kritikasri27
 [linkedin]: https://www.linkedin.com/in/kritika-srivastava
-[dev]: https://dev.to/kritika27
-[github]: https://github.com/kritika27
+[dev]: https://dev.to/SelvaNiklesh
+[github]: https://github.com/SelvaNiklesh
