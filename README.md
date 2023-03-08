@@ -1,8 +1,8 @@
 # Selva Niklesh R
 
-## Hi, I am a ReactJS/Frontend Developer 👩‍💻
+## Hi, I am a NodeJs/Backend Developer 👩‍💻
 
-🔭 Currently I am actively looking for a full-time React Developer job in Berlin,Germany. I'm working as a full-time React Developer.With expertise in React, I am working in MERN stack & TypeScript.
+🔭 Currently I am actively looking for a full-time React Developer job in Berlin,Germany. I'm working as a full-time React Developer.With expertise in Node, I am working in MERN stack & TypeScript.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.🙂
 
@@ -13,9 +13,8 @@
 ### Available on:
 
 <a href="https://dev.to/SelvaNiklesh"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/kritikathedev/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/selva-niklesh-aa2008198/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/selva_niklesh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
 <br />
 
 ---
@@ -63,13 +62,12 @@
   <br/>
   <br/>
 
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=SelvaNiklesh&count_private=true&theme=dracula&show_icons=true)
+![Selva's Github Stats](https://github-readme-stats.vercel.app/api?username=SelvaNiklesh&count_private=true&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaNiklesh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SelvaNiklesh)
 
-[twitter]: https://twitter.com/kritikasri27
-[linkedin]: https://www.linkedin.com/in/kritika-srivastava
+[linkedin]: https://www.linkedin.com/in/selva-niklesh-aa2008198/
 [dev]: https://dev.to/SelvaNiklesh
 [github]: https://github.com/SelvaNiklesh
