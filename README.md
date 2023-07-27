@@ -7,8 +7,6 @@
 👯  I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
 ### Available on:
-
-<a href="https://dev.to/SelvaNiklesh"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/selva-niklesh-aa2008198/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/selva_niklesh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
 <br />
@@ -45,18 +43,6 @@
 
 ---
 
-### Tech Blog✏️:
-
-- [Dev](https://dev.to/SelvaNiklesh): Write-ups on ReactJS/Frontend Development.
-
-  ## My Top Blog Posts:
-
-  - [How to think while building web applications.](https://dev.to/SelvaNiklesh/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was being awarded as weekly top React author.
-  - [React code structuring and best practices.](https://dev.to/SelvaNiklesh/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
-
-- [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
-  <br/>
-  <br/>
 
 ![Selva's Github Stats](https://github-readme-stats.vercel.app/api?username=SelvaNiklesh&count_private=true&theme=dracula&show_icons=true)
 
@@ -65,5 +51,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SelvaNiklesh)
 
 [linkedin]: https://www.linkedin.com/in/selva-niklesh-aa2008198/
-[dev]: https://dev.to/SelvaNiklesh
 [github]: https://github.com/SelvaNiklesh
