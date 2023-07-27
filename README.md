@@ -1,14 +1,10 @@
 # Selva Niklesh R
 
-## Hi, I am a NodeJs/Backend Developer 👩‍💻
-
-🔭 Currently I am actively looking for a full-time React Developer job in Berlin,Germany. I'm working as a full-time React Developer.With expertise in Node, I am working in MERN stack & TypeScript.
+## Hi, I am a Frontend Developer 👩‍💻
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.🙂
 
-👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
-
-⚡ Fun fact: I like to do sketching, write poems and try new hobbies in my leisure hour. These days I am into cooking & photography as part of my new hobbies.
+👯  I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
 ### Available on:
 
